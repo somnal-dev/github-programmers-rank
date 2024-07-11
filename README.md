@@ -4,4 +4,4 @@
 <br>
 
 ## 🧑‍🎓 Programmers
-[![](https://github.com/somnwal/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/somnwal/github-programmers-rank)
+![](https://github.com/somnwal/github-programmers-rank/blob/master/lib/result.svg)
